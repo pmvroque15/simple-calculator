@@ -39,6 +39,8 @@ body {
     align-items: flex-end;
     justify-content: space-around;
     padding: .75 rem;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .output .previous-operand {
